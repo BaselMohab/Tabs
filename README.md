@@ -1,3 +1,3 @@
-Tabs features using React JS
+Tabs feature using React JS
 
 Live Demo : https://tabs-topaz.vercel.app/
